@@ -14,11 +14,12 @@ Trabalho de Conclusão de Curso
 
 
 ## Minhas Tecnologias 💻
-
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-original-wordmark.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  width="50px"/>
+</p>
 
 
 ## Stats 📊
