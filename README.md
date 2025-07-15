@@ -14,16 +14,13 @@ Trabalho de Conclusão de Curso
 
 
 ## Minhas Tecnologias 💻
-<p allign="center">
+<center>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-original-wordmark.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  width="50px"/>
-</p>
+</center>
 
 ## Stats 📊
 
-![Cristian J Müller GitHub stats](https://github-readme-stats.vercel.app/api?username=4biDeN&show_icons=true&theme=radical)
-
-![Cristian J Müller GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=4biDeN&layout=compact&langs_count=7&theme-dracula)
-
-<img loading="lazy" heigth"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4biDeN&layout=compact&langs_count=7&theme-dracula" />
+![Cristian J Müller GitHub stats](https://github-readme-stats.vercel.app/api?username=4biDeN&show_icons=true&theme=radical) ![Cristian J Müller GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=4biDeN&layout=compact&langs_count=5&theme-dracula)
