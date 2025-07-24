@@ -2,9 +2,9 @@
 
 💀 Olá, meu nome é Cristian João Müller!
 
-📰 Estou cusrsando o oitavo (e último 🙏) Período de Sistemas de Informação.
+📰 Estou cursando o oitavo (e último 🙏) Período de Sistemas de Informação.
 
-💎 Trabalho atualmente como Analista de Suporte e implantação e nas horas vagas desenvolvo minhas habilidade na área de programação
+💎 Trabalho atualmente como Analista de Suporte e implantação e nas horas vagas desenvolvo minhas habilidades na área de programação
 
 ## Projeto de trabalho atual 🚀
 
