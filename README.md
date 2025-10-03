@@ -10,7 +10,7 @@
 
 Trabalho de Conclusão de Curso
 
-[Reclama SK](https://github.com/4biDeN/reclama-sk-tcc)
+[Relata SK](https://github.com/4biDeN/relata-sk-tcc)
 
 
 ## Minhas Tecnologias 💻
@@ -24,4 +24,4 @@ Trabalho de Conclusão de Curso
 
 ## Stats 📊
 
-![Cristian J Müller GitHub stats](https://github-readme-stats.vercel.app/api?username=4biDeN&show_icons=true&theme=radical) ![Cristian J Müller GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=4biDeN&layout=compact&langs_count=5&theme-dracula)
+![Cristian J Müller GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=4biDeN&layout=compact&langs_count=5&theme-dracula)
